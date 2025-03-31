@@ -1,7 +1,9 @@
 🛍️ Advanced Multi-Language E-Commerce Website with AI Chatbot & Enhanced Security
+
 This project is a cutting-edge e-commerce website developed using Vite and React, featuring a comprehensive suite of functionalities that elevate the user experience. It seamlessly integrates multilingual support, a responsive UI, and intelligent assistance, providing a modern shopping journey.
 
 ✨ Key Features:
+
 Complete E-Commerce Functionality:
 🗂️ Display a wide range of products with intuitive "Add to Cart" and "Remove" options
 🛒 Comprehensive cart management with real-time updates and checkout flow
