@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+🛒 Multi-Language Shopping Cart with Dark/Light Mode & AI Chatbot
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -52,3 +52,4 @@ export default tseslint.config({
   },
 })
 ```
+](https://github.com/samadhii99/Shopping-Store/blob/210bb9615dfa1d10461af51e69c7bc0ba57701b8/1.PNG)
