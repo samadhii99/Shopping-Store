@@ -1,0 +1,422 @@
+{
+  "header": {
+    "store_name": "Shopping Store",
+    "search_placeholder": "Search products...",
+    "my_account": "My Account",
+    "cart": "Cart",
+    "languages": {
+      "english": "English",
+      "sinhala": "Sinhala",
+      "tamil": "Tamil"
+    },
+    "categories": {
+      "women": "Women",
+      "women_clothing": "Clothing",
+      "women_accessories": "Accessories",
+      "men": "Men",
+      "men_clothing": "Clothing",
+      "men_accessories": "Accessories",
+      "kids": "Kids",
+      "kids_clothing": "Clothing",
+      "kids_toys": "Toys",
+      "home_lifestyle": "Home & Lifestyle",
+      "health_beauty": "Health & Beauty"
+    },
+    "account": {
+      "login": "Login",
+      "signup": "Signup",
+      "my_account": "My Account"
+    }
+  },
+  "product": {
+    "sold_out": "Sold out",
+    "in_stock": "In stock",
+    "add_to_cart": "Add to Cart",
+    "installment": "or 3 X"
+  },
+  "login": {
+    "title": "Login to Your Account",
+    "subtitle": "Welcome back! Please enter your credentials to access your account.",
+    "email_label": "Email",
+    "email_placeholder": "Enter your email",
+    "email_required": "Please enter your email!",
+    "email_invalid": "Please enter a valid email!",
+    "password_label": "Password",
+    "password_placeholder": "Enter your password",
+    "password_required": "Please enter your password!",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot password?",
+    "login_button": "Login",
+    "logging_in": "Logging in...",
+    "success_message": "Login successful!",
+    "no_account": "Don't have an account?",
+    "signup_link": "Sign Up"
+  },
+  "signup": {
+    "title": "Create an Account",
+    "subtitle": "Sign up to get started with our services",
+    "name_label": "Full Name",
+    "name_placeholder": "Enter your full name",
+    "name_required": "Please enter your name",
+    "email_label": "Email Address",
+    "email_placeholder": "Enter your email address",
+    "email_required": "Please enter your email address",
+    "email_invalid": "Please enter a valid email address",
+    "phone_label": "Phone Number (Optional)",
+    "phone_placeholder": "Enter your phone number",
+    "phone_invalid": "Please enter a valid phone number",
+    "password_label": "Password",
+    "password_placeholder": "Create a password",
+    "password_required": "Please enter a password",
+    "password_min_length": "Password must be at least 8 characters",
+    "confirm_password_label": "Confirm Password",
+    "confirm_password_placeholder": "Confirm your password",
+    "confirm_password_required": "Please confirm your password",
+    "passwords_not_match": "The two passwords do not match",
+    "agree_terms_required": "You must agree to the Terms and Privacy Policy",
+    "agree_terms_part1": "I agree to the",
+    "terms_link": "Terms of Service",
+    "and": "and",
+    "privacy_link": "Privacy Policy",
+    "signup_button": "Sign Up",
+    "signing_up": "Signing Up...",
+    "success_message": "Your account has been created successfully!",
+    "have_account": "Already have an account?",
+    "login_link": "Log In"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "shipping": "Shipping",
+    "payment": "Payment",
+    "review": "Review",
+    "shipping_info": "Shipping Information",
+    "full_name": "Full Name",
+    "full_name_required": "Please enter your full name",
+    "full_name_placeholder": "Enter your full name",
+    "email": "Email Address",
+    "email_required": "Please enter your email address",
+    "email_invalid": "Please enter a valid email address",
+    "email_placeholder": "Enter your email address",
+    "phone": "Phone Number",
+    "phone_required": "Please enter your phone number",
+    "phone_placeholder": "Enter your phone number",
+    "address1": "Address Line 1",
+    "address1_required": "Please enter your address",
+    "address1_placeholder": "Enter your street address",
+    "address2": "Address Line 2 (Optional)",
+    "address2_placeholder": "Apartment, suite, unit, building, floor, etc.",
+    "city": "City",
+    "city_required": "Please enter your city",
+    "city_placeholder": "Enter your city",
+    "state": "State/Province",
+    "state_required": "Please enter your state or province",
+    "state_placeholder": "Enter your state or province",
+    "postal_code": "Postal/ZIP Code",
+    "postal_code_required": "Please enter your postal or ZIP code",
+    "postal_code_placeholder": "Enter your postal or ZIP code",
+    "country": "Country",
+    "country_required": "Please select your country",
+    "country_placeholder": "Select your country",
+    "payment_method": "Payment Method",
+    "payment_method_required": "Please select a payment method",
+    "credit_card": "Credit Card",
+    "credit_card_description": "Pay securely using your credit or debit card",
+    "paypal": "PayPal",
+    "paypal_description": "Pay securely using your PayPal account",
+    "bank_transfer": "Bank Transfer",
+    "bank_transfer_description": "Pay using direct bank transfer",
+    "cash_on_delivery": "Cash on Delivery",
+    "cash_on_delivery_description": "Pay with cash when your order is delivered",
+    "card_details": "Card Details",
+    "card_number": "Card Number",
+    "card_number_required": "Please enter your card number",
+    "card_name": "Name on Card",
+    "card_name_required": "Please enter the name on your card",
+    "card_name_placeholder": "Enter name as it appears on the card",
+    "expiry_date": "Expiry Date",
+    "expiry_date_required": "Please enter the expiry date",
+    "cvv": "CVV",
+    "cvv_required": "Please enter the security code",
+    "save_payment_info": "Save this payment information for future purchases",
+    "order_review": "Order Review",
+    "shipping_address": "Shipping Address",
+    "order_items": "Items in Your Order",
+    "order_confirmation_message": "By placing your order, you agree to our Terms of Service and Privacy Policy",
+    "order_summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "total": "Total",
+    "free": "Free",
+    "free_shipping_message": "You've qualified for free shipping!",
+    "place_order": "Place Order",
+    "continue": "Continue",
+    "back": "Back",
+    "empty_cart": "Your cart is empty",
+    "add_items": "Add some items to your cart to proceed with checkout",
+    "browse_products": "Browse Products",
+    "order_placed": "Your Order Has Been Placed!",
+    "order_number": "Order Number",
+    "order_details": "Order Details",
+    "confirmation_email_sent": "A confirmation email has been sent to",
+    "continue_shopping": "Continue Shopping"
+  },
+
+  "about": {
+    "title": "",
+    "our_story": {
+      "title": "Our Story",
+      "paragraph1": "Founded in 2018, Timeless Store began with a simple vision: to create a fashion marketplace that focuses on quality, sustainability, and timeless design. What started as a small boutique in Colombo has grown into Sri Lanka's leading online fashion destination.",
+      "paragraph2": "Our journey is rooted in the belief that fashion should be accessible, ethical, and long-lasting. We partner with both established and emerging designers who share our values, bringing you carefully curated collections that stand the test of time."
+    },
+    "our_mission": {
+      "title": "Our Mission",
+      "paragraph1": "At Timeless Store, our mission is to redefine fashion retail in Sri Lanka by offering high-quality, sustainable products that inspire confidence and self-expression. We aim to build lasting relationships with our customers through exceptional service and a personalized shopping experience.",
+      "paragraph2": "We're committed to ethical practices throughout our supply chain, working only with partners who provide fair wages and safe working conditions. By 2025, we aim to have 80% of our products made from sustainable materials and reduce our carbon footprint by 50%."
+    },
+    "our_values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality",
+        "description": "We source the best materials and work with skilled artisans to ensure every product meets our high standards."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "We're committed to reducing our environmental impact through eco-friendly materials and practices."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously explore new technologies and approaches to improve our products and customer experience."
+      },
+      "community": {
+        "title": "Community",
+        "description": "We invest in local communities through employment opportunities and social initiatives."
+      }
+    },
+    "our_team": {
+      "title": "Our Team",
+      "ceo": "Founder & CEO",
+      "cto": "Chief Technology Officer",
+      "cdo": "Creative Director",
+      "jane_bio": "With over 15 years of experience in fashion retail, Jane leads our company with passion and vision. She ensures every decision aligns with our core values.",
+      "john_bio": "John oversees our technology infrastructure and digital experience. His innovative approach has revolutionized how our customers shop online.",
+      "sarah_bio": "Sarah brings her artistic vision and industry expertise to curate our collections. She works closely with designers to create exclusive pieces for Timeless Store."
+    },
+    "milestones": {
+      "title": "Our Journey",
+      "2018": {
+        "title": "Our Beginning",
+        "description": "Opened our first boutique store in Colombo with a small collection of local designers."
+      },
+      "2020": {
+        "title": "Online Launch",
+        "description": "Launched our e-commerce platform during the pandemic, reaching customers across Sri Lanka."
+      },
+      "2022": {
+        "title": "Expansion",
+        "description": "Expanded our product range to include home decor and lifestyle products. Opened our second physical store."
+      },
+      "2024": {
+        "title": "International Shipping",
+        "description": "Started shipping internationally and introduced our first fully sustainable collection."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions, feedback, or need assistance? We're here to help! Choose the most convenient way to reach us below.",
+    "info": {
+      "phone": {
+        "title": "Phone"
+      },
+      "email": {
+        "title": "Email"
+      },
+      "address": {
+        "title": "Address",
+        "main": "123 Fashion Street,",
+        "city": "Colombo 03, Sri Lanka"
+      },
+      "hours": {
+        "title": "Business Hours",
+        "weekdays": "Mon-Fri: 9:00 AM - 6:00 PM",
+        "weekend": "Sat-Sun: 10:00 AM - 4:00 PM"
+      }
+    },
+    "map": {
+      "title": "Find Us"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "required": "This field is required",
+      "invalid_email": "Please enter a valid email",
+      "submit": "Send Message",
+      "success_message": "Thank you for your message! We'll get back to you soon."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "shipping": {
+        "question": "How long does shipping take?",
+        "answer": "Standard shipping within Sri Lanka takes 2-4 business days. International shipping typically takes 7-14 business days depending on the destination."
+      },
+      "returns": {
+        "question": "What is your return policy?",
+        "answer": "We offer a 30-day return policy for unworn items in original condition with tags attached. Please see our Returns & Exchanges page for full details."
+      },
+      "payment": {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept Visa, Mastercard, American Express, PayPal, and bank transfers. We also offer cash on delivery for orders within Colombo."
+      },
+      "size": {
+        "question": "How do I find my size?",
+        "answer": "Each product page includes detailed size information. You can also refer to our Size Guide for general measurements across different brands."
+      }
+    }
+  },
+  "nav": {
+    "about": "About Us",
+    "contact": "Contact"
+  },
+
+  "forgot_password": {
+    "title": "Forgot Password",
+    "subtitle": "Enter your email to reset your password",
+    "email_label": "Email",
+    "email_required": "Please enter your email",
+    "email_invalid": "Please enter a valid email",
+    "email_placeholder": "Enter your email",
+    "reset_button": "Reset Password",
+    "sending": "Sending...",
+    "email_sent": "Password reset email sent successfully",
+    "check_email": "Please check your email for password reset instructions.",
+    "try_again": "Try another email",
+    "remember_password": "Remember your password?",
+    "login_link": "Login"
+  },
+
+  "footer": {
+    "shop_column_title": "Shop",
+    "information_column_title": "Information",
+    "company_column_title": "Company",
+    "categories": [
+      "WOMEN",
+      "MEN",
+      "KIDS",
+      "MOTHER & BABY",
+      "HOME & LIFESTYLE",
+      "HEALTH & BEAUTY",
+      "AVURUDU",
+      "SALE"
+    ],
+
+    "information": [
+      "Shipping Policy",
+      "Returns & Exchanges",
+      "Terms & Conditions",
+      "Privacy Policy"
+    ],
+    "company": ["About Us", "Contact Us", "FAQs", "CSR", "Our Branches"],
+    "newsletter": {
+      "title": "Newsletter Sign Up",
+      "subtitle": "Sign up for exclusive updates, new arrivals & insider only discounts",
+      "email_placeholder": "Enter your email",
+      "submit": "Submit",
+      "error_empty": "Please enter an email address",
+      "error_invalid": "Please enter a valid email address",
+      "success": "Thank you for subscribing!"
+    },
+    "copyright": "© 2025 Shopping Store. All Rights Reserved."
+  },
+  "store_features": {
+    "comprehensive_selection": {
+      "title": "Comprehensive selection",
+      "description": "Shop online from your favourite department store brand"
+    },
+    "delivery": {
+      "title": "All-island delivery",
+      "description": "Delivery within 3-4 working days"
+    },
+    "support": {
+      "title": "Top-notch support",
+      "description": "Get support from our team via phone, social media and email"
+    },
+    "exchange": {
+      "title": "Easy exchange",
+      "description": "Exchange from any of our stores or complete online"
+    }
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "price": "Rs",
+    "color": "Color",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "continue_shopping": "Continue Shopping",
+    "add_to_cart": "{{name}} added to cart",
+    "remove_from_cart": "Item removed from cart"
+  },
+
+  "chatbot": {
+    "welcome": "Welcome to Envogue! I can help you find the perfect product, answer questions about our store, and guide you through your shopping experience. Click on a quick question below or type your own!",
+    "greetings": {
+      "response": "Hello! Welcome to Envogue. How can I assist you today?"
+    },
+    "thanks": {
+      "response": "You're welcome! Is there anything else I can help you with today?"
+    },
+    "farewell": {
+      "response": "Thank you for chatting with Envogue. Have a great day!"
+    },
+    "howAreYou": {
+      "response": "I'm doing great, thank you for asking! I'm here to help you with any shopping needs."
+    },
+    "productAvailability": {
+      "response": "We have {{totalProducts}} products across {{categories}} categories. Currently, {{inStockProducts}} products are in stock. Would you like to hear about our top categories?"
+    },
+    "recommendation": {
+      "available": "I recommend our {{productName}} from the {{category}} category. It's priced at Rs {{price}} and available in {{colors}} colors.",
+      "outOfStock": "I'd love to recommend a product, but we're currently low on stock."
+    },
+    "payment": {
+      "response": "We offer flexible payment options! Each product has an installment plan. For example, you can pay in 3 installments. The installment price is clearly shown for each product."
+    },
+    "order": {
+      "response": "To place an order, simply browse our products, select your desired item, choose a color, and click 'Add to Cart'. Then proceed to checkout and complete your purchase."
+    },
+    "shipping": {
+      "response": "We provide tracking for all orders. After purchase, you'll receive a tracking number via email. Typical shipping takes 3-5 business days."
+    },
+    "returns": {
+      "response": "We offer a 30-day hassle-free return policy. If you're not satisfied with your purchase, you can return the item in its original condition for a full refund."
+    },
+    "support": {
+      "response": "You can reach our customer support via email at support@envogue.com or call our helpline at +1 (555) 123-4567. We're available Monday to Saturday, 9 AM to 6 PM."
+    },
+    "discount": {
+      "response": "We occasionally offer seasonal discounts. Sign up for our newsletter to get the latest deals and promotional offers!"
+    },
+    "fallbackResponses": [
+      "I'm not quite sure about that. Could you rephrase your question?",
+      "That's an interesting query. Could you provide more details?",
+      "I'm listening! Could you tell me more about what you're looking for?",
+      "I want to help! Can you clarify your question a bit more?",
+      "Let me understand better. Could you rephrase your question?"
+    ],
+    "quickQuestions": [
+      "What products do you sell?",
+      "What payment methods do you accept?",
+      "Do you offer installment payments?",
+      "Can I track my order?",
+      "How do I contact customer support?",
+      "Can you recommend a product for me?"
+    ],
+    "drawerTitle": "Envogue Shopping Assistant",
+    "inputPlaceholder": "Ask about products, orders, or shopping...",
+    "quickQuestionsTitle": "Quick Questions"
+  }
+}

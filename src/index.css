@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+
+html,
+body {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  font-family: "Inter", sans-serif;
+}
+
+/* Light Mode Defaults */
+html,
+body {
+  color: #1e3a8a; /* Dark blue text */
+  background-color: #f0f9ff; /* Very light blue background */
+}
+
+/* Dark Mode Styles */
+html.dark,
+body.dark {
+  color: #e0e6ed; /* Light text for dark backgrounds */
+  background-color: #121826; /* Deep dark background */
+}
+
+#root {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Smooth scrolling and typography */
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Responsive content container */
+.content-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Scrollbar styling - Light Mode */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #dbeafe; /* Light blue track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3b82f6; /* Vibrant light blue */
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2563eb; /* Slightly darker on hover */
+}
+
+/* Dark Mode Scrollbar */
+.dark ::-webkit-scrollbar-track {
+  background: #2f3d5a; /* Dark mode track */
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #5e81f7; /* Dark mode thumb */
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #7094f9; /* Dark mode thumb hover */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .content-container {
+    padding: 0 0.5rem;
+  }
+}
+
+/* Transition and interaction states */
+@layer base {
+  * {
+    @apply transition-colors duration-200 ease-in-out;
+  }
+}
