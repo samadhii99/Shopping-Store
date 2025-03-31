@@ -5,6 +5,7 @@ This project is a cutting-edge e-commerce website developed using Vite and React
 ✨ Key Features:
 
 Complete E-Commerce Functionality:
+
 🗂️ Display a wide range of products with intuitive "Add to Cart" and "Remove" options
 🛒 Comprehensive cart management with real-time updates and checkout flow
 📝 Smooth login, sign-up, and password recovery process
