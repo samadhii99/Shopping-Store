@@ -45,3 +45,6 @@ Additional Features for a Complete Experience:
 📑 Dedicated pages for About Us and Contact Us
 
 This project delivers a powerful, secure, and user-friendly online shopping experience, integrating modern design principles with advanced AI and multi-language capabilities.
+
+![img alt](https://github.com/samadhii99/Shopping-Store/blob/17aa584a540eac524474364a6ddef9cee129fe96/1.PNG)
+
