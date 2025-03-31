@@ -62,7 +62,7 @@ This project delivers a powerful, secure, and user-friendly online shopping expe
 
 ![img alt](https://github.com/samadhii99/Shopping-Store/blob/0142c6bc6d2e605a253cabc01a724bc54f89d6aa/ForgotPassword%20-DarkMode.PNG)
 
-![img alt]()
+![img alt](https://github.com/samadhii99/Shopping-Store/blob/1891c3476ed6d670694f56dc9317406c40a97a5e/Checkout.PNG)
 
 ![img alt]()
 
