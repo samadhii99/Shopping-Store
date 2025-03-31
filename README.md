@@ -54,7 +54,7 @@ This project delivers a powerful, secure, and user-friendly online shopping expe
 
 ![img alt](https://github.com/samadhii99/Shopping-Store/blob/01b1d8a3708131ae8516243a3332b39368de6474/4.PNG)
 
-![img alt]()
+![img alt](https://github.com/samadhii99/Shopping-Store/blob/48b335e355dea42e4592fe8c6ee4debde939f27b/5.PNG)
 
 ![img alt]()
 
